@@ -1,0 +1,21 @@
+Case File: Identifying Leader of an Illegal Goods Organization
+
+Objective: Identify the leader of a large organization involved in selling illegal goods operating in Europe and provide evidence for legal proceedings.
+
+Case Summary: The investigation focused on gathering information about the leader of the organization and obtaining evidence that could be used in court. The following steps were taken to accomplish the objective:
+
+    Forum Scraping: Extensive scraping of forums related to the distribution of illegal goods was conducted to gather intelligence. During this process, an old post containing an email address claimed to belong to the organization's admin was discovered.
+
+    Contacting the Target: Utilizing an advanced avatar, contact was initiated with the target through the provided email address. Initial interactions with the target were met with suspicion, but over time, trust was established. Eventually, access to resell the illegal products was granted, which provided crucial evidence for the case.
+
+    Exploring Wayback Machine: The organization's website, represented by <name of organization>.com, was no longer active. However, the Wayback Machine was utilized to retrieve screenshots of the website from previous years. From these screenshots, two email addresses were obtained: the original email and a Gmail address associated with the organization.
+
+    Social Profiling: Social profiling tools were employed to connect the Gmail address to the target's first name, which had a unique spelling specific to a certain country. Additionally, the first letter of the target's last name was linked to the same Gmail address.
+
+    GitHub Discovery: Extensive internet scraping was conducted to gather different versions and combinations of the target's name. Eventually, a repository on a Chinese version of GitHub was found. Inside the repository, a file resembling a customer list contained a username matching the target's unique first name spelling and the first letter of his last name. Adjacent to this username was the suspect's full name and country.
+
+    Narrowing Down Suspects: Using the social profiling tools, four suspects sharing the same name and originating from the identified country were identified. The tools also provided suspected phone numbers associated with each of the suspects.
+
+    Email Account Access: Employing various IP addresses, repeated attempts were made to trigger a "forgot my password" response from the target's Gmail address. After numerous attempts, a successful response was received, indicating that a password reset code had been sent. At this point, the target's identity was confirmed.
+
+    Social Network Analysis: With the confirmed identity, the target's Facebook address was discovered. Although the target had set their friends list as private, sophisticated link analysis tools were used to identify family members and close friends. By focusing on individuals who were less meticulous in covering their tracks, information about the front company owned by the target in a foreign country and the target's place of residence, including photographs of the exterior and interior of the house, was obtained.

@@ -1,0 +1,19 @@
+Case File: Identification of Illegal Digital Content Distribution Organization
+
+Objective: Identify at least one admin of an organization involved in distributing illegal digital content at wholesale and uncover their distribution method, payment method, and money laundering technique.
+
+Case Summary: The investigation focused on uncovering the admin(s) of an organization engaged in the wholesale distribution of illegal digital content. The following steps were taken to achieve the objective:
+
+    Provided Organization Name and Outdated Logo: The investigation began with a generic organization name and an outdated logo. Reverse image search tools were utilized to find the logo associated with an APK on a software sharing forum. The username of the uploader was related to the organization name. By manipulating the URL, access to the APK upload metadata was obtained, revealing the suspect's email address and name.
+
+    Social Media Scraping and Suspect Identification: Various social media profiles were scraped, leading to the identification of a profile with the suspect's name and a several-year-old post containing the organization's logo. This confirmed the identification of the suspect.
+
+    Software Sharing Forum Profile Investigation: Further research into the suspect's profile on the software sharing forum uncovered multiple additional APKs used for sharing illegal content. Another profile owned by the same suspect was found, containing updated logos and names. This revealed that the organization operated under numerous names.
+
+    Website Discovery and Hidden Page: Internet scraping on the organization's names led to the discovery of a website selling clothing and dolls, seemingly legal. However, a small link on the bottom of the last page of the website redirected to another website advertising a computer repair company. The suspicious nature of this website, with broken links, prompted further investigation. A hidden page accessible only through the exact URL contained the same APKs found on the suspect's software sharing profile. This exposed the computer repair website as a cover for distributing the illegal content.
+
+    Fake Website Designer Name and Money Laundering Theory: The website credits for the initial suspect's website pointed to a clearly fake name. Scraping the internet for that name, a list of websites created by a website designer under this name was compiled. Although the websites had similar designs, they sold different objects. Making purchases from these websites using an alias, it was discovered that no products were delivered. A theory emerged that customers of the criminal organization agreed on a price with the admins and made purchases from these websites of similar value, allowing the organization to launder money.
+
+    Avatar Contact and Confirmation: Contact was made with the suspect via one of the contact phone numbers found on the websites, using an avatar. The suspect was approached assuming the money laundering theory was correct and immediately asked for the illegal services rather than the advertised legal items on the website. The suspect's response to this inquiry confirmed the validity of the theory.
+
+Through the evidence gathered in this investigation, an admin of the organization, their distribution method, payment method, and money laundering technique were successfully identified.

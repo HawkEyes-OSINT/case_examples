@@ -1,0 +1,17 @@
+Case File: Identification of Suspect Behind Illegal Content Streaming APK
+
+Objective: Identify the suspect responsible for distributing an APK used for streaming illegal content across Asia.
+
+Case Summary: The investigation aimed to uncover the individual behind an APK involved in the unauthorized streaming of illegal content. The following steps were taken to achieve the objective:
+
+    Social Media Investigation: Extensive research on social media platforms was conducted, leading to the identification of one of the main distributors involved in the illegal streaming activities. Further background research indicated that the individual had limited technical knowledge, suggesting their involvement in distribution rather than app development.
+
+    App Purchase and Reverse Engineering: Utilizing an avatar persona, the app was purchased from the suspect. With the help of an APK reverse engineering tool, the backend code of the APK was analyzed. It became evident that the primary operations of the APK relied on code sourced from five separate GitHub repositories owned by different individuals.
+
+    Investigation of GitHub Account Owners: Focus shifted towards investigating the owners of the identified GitHub accounts associated with the code used in the APK. Through successful efforts, the identities of the GitHub account owners were uncovered. Detailed examination of their backgrounds, including high-level professional employment, led to the conclusion that they were likely not involved in the APK's development. Instead, it appeared that the APK developer had incorporated open-source code from their GitHub repositories.
+
+    Link Analysis and Target Identification: A link analysis tool was employed to construct a graph illustrating the relationships between hundreds of GitHub users who had utilized code from the suspect profiles. Analysis of the graph revealed only one profile that had taken code from all five suspect accounts. This profile became the prime suspect.
+
+    Username Scanning and Internet Search: The suspect profile's username, consisting of three letters, was scanned across the internet. A personal website of a developer was discovered, and the developer's name matched the three-letter username. On the website, an email address was provided. Employing a known technique to uncover GitHub account email addresses, the email associated with the suspect's GitHub account was successfully discovered, matching the one found on the website.
+
+The evidence gathered throughout this investigation suggests the identified individual as a primary suspect involved in the distribution of the illegal content streaming APK.

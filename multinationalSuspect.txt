@@ -1,0 +1,21 @@
+Case File: Identification of Criminal Organization Boss
+
+Objective: Identify the boss of a criminal organization involved in digital crimes.
+
+Case Summary: The investigation focused on uncovering the leader of a criminal organization engaged in digital crimes. The following steps were taken to achieve the objective:
+
+    Provided Username: The investigation began with a provided username, which also indicated a possible first name of a certain nationality.
+
+    Research and Forum Scraping: In-depth research was conducted to understand the criminal activities carried out by the organization and the tools required for such crimes. Forums discussing these tools were scraped, and a user was identified who posted their full name, with the first name matching the provided username. The name was relatively unique, leading to the use of social profiling tools to find a suspected phone number associated with the suspect. The country code of the phone number aligned with the location where the crimes were believed to be taking place.
+
+    Avatar Contact and Bitcoin Transactions: An avatar was used to make contact with the suspect, posing as a potential customer interested in purchasing their services. The suspect agreed and requested payment via Bitcoin, providing a Bitcoin address for the transaction. To investigate whether the suspect used the same address for all transactions, a second avatar approached the suspect and placed another order, receiving the same Bitcoin address for payment.
+
+    Private Facebook Group: The suspect admitted the second avatar into their private customer support Facebook group. By analyzing the group, a moderator was identified. Further investigation into the moderator revealed their nationality, which differed from the country associated with the crimes. Other members of the support group indicated that the crimes were also being offered in a second country previously unknown to be connected to the organization.
+
+    Social Link Analysis and New Facebook Account: Utilizing social link analysis tools, higher-ranking members in the support group, including the admin (initial suspect) and the identified moderator, led to the discovery of another Facebook account operated by the same individual. However, the name on this new account belonged to a different nationality.
+
+    Social Engineering and Real Name: Through social engineering tactics, the suspect revealed that the initial name provided was an alias, and their real name matched the name on the new Facebook account. Social profiling tools were then employed to identify two residences owned by the suspect, one in each country of operation.
+
+    Bitcoin Transaction Analysis: A link analysis tool was used to construct a graph depicting the Bitcoin transactions leading to the suspect's address. By combining the number of members in the private customer service group and the analysis of these transactions, the client was presented with the suspect's client numbers and estimated yearly income.
+
+The evidence gathered throughout this investigation provides valuable insights into the operations of the criminal organization and the identification of the boss.
